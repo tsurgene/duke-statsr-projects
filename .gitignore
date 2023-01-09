@@ -1,3 +1,4 @@
+*.DS_Store
 brfss2013.RData
 movies.Rdata
 .Rhistory
